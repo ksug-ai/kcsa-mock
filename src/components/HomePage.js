@@ -191,33 +191,13 @@ function HomePage({
           </div>
           <div className="community-content">
             <dl className="community-details">
-                <div className="detail-row">
-                <dt className="detail-label">TAG Security and Compliance</dt>
-                <dd className="detail-content">
-                  <p>Member of TAG Security and Compliance APAC</p>
-                  <a href="https://cloud-native.slack.com/?redir=%2Farchives%2FC08JZ9YLAA3%3Fname%3DC08JZ9YLAA3" className="link">Join the CNCF Slack</a>
-                  <div className="community-logo">
-                    <img src="https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/tag-security-and-compliance/tag-security-and-compliance-logo.svg" alt="TAG Securrity and Compliance" />
-                  </div>
-                </dd>
-              </div>
               <div className="detail-row">
-                <dt className="detail-label">Cloud Native Melbourne</dt>
+                <dt className="detail-label">KSUG.AI</dt>
                 <dd className="detail-content">
-                  <p>Chapter organiser for Cloud Native Melbourne</p>
-                  <a href="https://community.cncf.io/cloud-native-melbourne/" className="link">Visit Cloud Native Melbourne</a>
+                  <p>Global Volunteer Advocate and Co-host for KSUG.AI</p>
+                  <a href="https://www.linkedin.com/company/k8sug/" className="link">Visit KSUG.AI on LinkedIn</a>
                   <div className="community-logo">
-                    <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/yamljson-lj2aTJhd3a9ui4btKFBp3GeqODqXbP.png" alt="Cloud Native Melbourne Logo" />
-                  </div>
-                </dd>
-              </div>
-              <div className="detail-row">
-                <dt className="detail-label">KSUG</dt>
-                <dd className="detail-content">
-                  <p>Global Volunteer Advocate and Co-host for KSUG</p>
-                  <a href="https://www.linkedin.com/company/k8sug/" className="link">Visit KSUG on LinkedIn</a>
-                  <div className="community-logo">
-                    <img src="https://ksug.ai/assets/Logo-C22ZmRMJ.jpg" alt="KSUG Logo" />
+                    <img src="https://ksug.ai/assets/Logo-C22ZmRMJ.jpg" alt="KSUG.AI Logo" />
                   </div>
                 </dd>
               </div>
